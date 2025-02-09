@@ -30,15 +30,15 @@ El proyecto utiliza datos abiertos del gobierno peruano ([datosabiertos.gob.pe](
 ## 📂 Estructura del Proyecto  
 ```plaintext
 📦 Casos-Dengue-Peru  
-├── data/ # Carpeta que contiene los datos originales y procesados
-│ ├── dengue_data.csv # Datos originales de casos de dengue
-│ ├── distritos_peru.csv # Datos de coordenadas de distritos de Perú
-│ └── dengue_ninos.json # Archivo CSV generado
-│ └── dengue_geojson.json # Archivo GeoJson generado
-├── dengue_data.ipynb # Notebook principal de procesamiento de datos
-├── README.md # Este archivo
-└── requirements.txt # Dependencias necesarias para ejecutar el proyecto
-└── utils.py # Archivo con funciones.
+├── data/                  # Carpeta que contiene los datos originales y procesados
+│ ├── dengue_data.csv      # Datos originales de casos de dengue
+│ ├── distritos_peru.csv   # Datos de coordenadas de distritos de Perú
+│ └── dengue_ninos.json    # Archivo CSV generado
+│ └── dengue_geojson.json  # Archivo GeoJson generado
+├── dengue_data.ipynb      # Notebook principal de procesamiento de datos
+├── README.md              # Este archivo
+└── requirements.txt       # Dependencias necesarias para ejecutar el proyecto
+└── utils.py               # Archivo con funciones.
 ```
 
 ## 📊 Fuentes de Datos  
