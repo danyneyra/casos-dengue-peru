@@ -1,0 +1,12 @@
+__pycache__
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# Environment variable files
+*.env
+
